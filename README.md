@@ -6,13 +6,13 @@ Saya seorang mahasiswa sistem informasi di Institut Teknologi Telkom Purwokerto 
 
 ## Pengalaman Kerja
 ### [Informatics Faculty ITTP]
-Pekerjaan: Student Staff
-Tanggal: Januari 2022 - Sekarang
+-Pekerjaan: Student Staff
+-Tanggal: Januari 2022 - Sekarang
 
 ## Pendidikan
 ### [Program Sarjana, Jurusan Sistem Informasi]
-Institut Teknologi Telkom Purwokerto
-Tahun: 2021 - Sekarang
+-Institut Teknologi Telkom Purwokerto
+-Tahun: 2021 - Sekarang
 
 ## Keterampilan
 - Bahasa Pemrograman: JavaScript, HTML, CSS, C++, Java, MySQL
